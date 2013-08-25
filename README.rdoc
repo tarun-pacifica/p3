@@ -1,0 +1,16 @@
+To Do to get this fkin prototype working;
+
+Get Mongo savvy/Play with ruby models
+Wireframe the app
+Backbone tutorial
+User/Session CRUD
+Home Page
+Landing Page
+Create CV form
+  Connect LinkedIn API to extract data to create skeleton
+Create dropdown to select basic CV template
+- AlohaEditor WYSIWYG API
+- Form guide which provides suggestions on content
+- Q&A which takes syntax, runs through natural language API, does something with it: makes suggestions based on keywords which are applicable/unapplicable - suggestions made.
+- Prints out to PDF
+- Saves on the cloud.
